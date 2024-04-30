@@ -1,4 +1,3 @@
-# Retail-Store-Data-Modeling-and-Analysis-using-DataStage
 # Retail Store Data Modeling and Analysis using DataStage
 
 ## Project Overview
@@ -14,14 +13,14 @@ The requirement is to preserve versions of all changes in the star-schema data w
 ## Data Source
 The data source for populating the star schema is the store's online transaction processing (OLTP) system.
 
-[![Data Source Screenshot](https://link.to.screenshot)](https://link.to.screenshot)
+[![Data Source Screenshot](https://drive.google.com/uc?id=1VhT6mIpPyITC0anDernZsjgTAQ15mQqs)](https://drive.google.com/file/d/1VhT6mIpPyITC0anDernZsjgTAQ15mQqs/view?usp=sharing)
 
 ## Project Steps
 The IBM InfoSphere DataStage tool is mainly used as an ETL tool to solve the problem.
 
 1. **Building the Physical Data Model:** A star schema is built with three dimensions: product, retail, and customer. And a fact table: transactions.
 
-   ![ERD with colored entities (UML notation)](https://link.to.ERD)
+   ![ERD with colored entities (UML notation)](https://drive.google.com/uc?id=10QaPTSKGJuaAsNg_DnMhpxHLaUI4bgjw)
 
 2. **Extraction:** Extract the data from the data warehouse, ensuring the inclusion of relevant customer, store, and product information.
 
