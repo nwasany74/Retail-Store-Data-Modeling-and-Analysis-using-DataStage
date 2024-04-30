@@ -44,7 +44,6 @@ The IBM InfoSphere DataStage tool is mainly used as an ETL tool to solve the pro
 
 ## DataStage Jobs
 - **Q1**
-  [![Data Source Screenshot](https://drive.google.com/file/d/14ImCyLGv00FKthFNJKMj4l1KEU5UXfnE/view?usp=sharing)
+  [![Q1 Screenshot](https://drive.google.com/uc?id=14ImCyLGv00FKthFNJKMj4l1KEU5UXfnE)](https://drive.google.com/file/d/14ImCyLGv00FKthFNJKMj4l1KEU5UXfnE/view?usp=sharing)
 - **Q2**
- [![Data Source Screenshot](https://drive.google.com/file/d/1yj3kkVEG5g0ORRDT0uS6Vj7-NMwzb0rL/view?usp=sharing) 
-
+  [![Q2 Screenshot](https://drive.google.com/uc?id=1yj3kkVEG5g0ORRDT0uS6Vj7-NMwzb0rL)](https://drive.google.com/file/d/1yj3kkVEG5g0ORRDT0uS6Vj7-NMwzb0rL/view?usp=sharing)
